@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+AI+Projects;Future+AI+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Dhenesh</h1>
 
 <h3 align="center">
@@ -23,28 +26,15 @@ Building AI Applications • Machine Learning Models • AI Agents • Cybersecu
 
 # 🛠 Tech Stack
 
-### Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode,html,css,mysql"/>
+</p>
 
-- Python
-- SQL
-- HTML
-- CSS
-
-### AI / ML
+### Libraries
 
 - NumPy
 - Pandas
-- Scikit-Learn
-- TensorFlow (Learning)
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
----
+- Scikit-learn
 
 # 🚀 Featured Projects
 
@@ -95,11 +85,17 @@ Machine Learning based Cyber Security system for detecting suspicious activities
 
 # 📫 Connect With Me
 
-LinkedIn:
-YOUR_LINKEDIN_URL
+<p align="left">
 
-Email:
-YOUR_EMAIL
+<a href=www.linkedin.com/in/k-n-dhenesh-8294923a0>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:dineshnaga2712@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
 
 ---
 
