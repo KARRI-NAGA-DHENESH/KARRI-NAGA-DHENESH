@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Dhenesh 👋
 
-<!--
-**KARRI-NAGA-DHENESH/KARRI-NAGA-DHENESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & Machine Learning Student
 
-Here are some ideas to get you started:
+I am passionate about building Artificial Intelligence applications,
+Machine Learning systems, and solving real-world problems using technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- Data Science
+- SQL
+- Git & GitHub
+- Generative AI
+- AI Agents
+
+## Featured Projects
+
+### 🤖 AI Agent System
+Building intelligent AI agents using LLMs, APIs, and automation workflows.
+
+### 🛡️ AI Cyber Threat Detection System
+Machine learning based security system for detecting and analyzing threats.
+
+## Currently Learning
+
+- Deep Learning
+- Generative AI
+- AI Agents
+- Data Structures & Algorithms
+- Cloud Deployment
+
+## Connect With Me
+
+LinkedIn: Add your LinkedIn link
