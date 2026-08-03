@@ -1,112 +1,168 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+AI+Projects;Future+AI+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="images/banner.png" width="100%" alt="Dhenesh Banner">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+Real-World+AI+Projects;Learning+Deep+Learning+%26+AI+Agents;Always+Learning+New+Things" alt="Typing SVG"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Dhenesh</h1>
 
 <h3 align="center">
-AI & Machine Learning Student | Python Developer | Future AI Engineer
+AI & Machine Learning Student | Python Developer | Passionate Learner
 </h3>
 
 <p align="center">
-Building AI Applications • Machine Learning Models • AI Agents • Cybersecurity Solutions
+I'm a 3rd Year AI & Machine Learning student who enjoys building real-world AI applications, exploring new technologies, and continuously improving my programming and problem-solving skills.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 AI & Machine Learning Student
-- 💻 Passionate Python Developer
-- 🤖 Interested in AI Agents, Generative AI & Deep Learning
-- 🛡️ Building AI-powered Cybersecurity Projects
-- 🌱 Currently learning Deep Learning, DSA & Cloud
-- 🎯 Goal: Crack top AI/Software placements
+- 🎓 3rd Year B.Tech AI & Machine Learning Student
+- 🐍 Python Developer
+- 🤖 Interested in AI, Machine Learning, Deep Learning & AI Agents
+- 🛡️ Building AI-powered applications for real-world problems
+- 📚 Currently learning Deep Learning, DSA, and Cloud Technologies
+- 🎯 Goal: Build impactful AI solutions and prepare for AI/Software placements
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode,html,css,mysql"/>
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql"/>
 </p>
 
-### Libraries
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
 
 - NumPy
 - Pandas
 - Scikit-learn
 
-# 🚀 Featured Projects
+### 🛠️ Tools
 
-## 🤖 AI Agent Project
-
-An intelligent AI Agent capable of solving real-world tasks using LLMs and APIs.
-
-### Features
-
-- AI Agent Workflow
-- API Integration
-- Intelligent Responses
-- Automation
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-## 🛡 AI Cyber Threat Detection
+# 🚀 Featured Projects
 
-Machine Learning based Cyber Security system for detecting suspicious activities.
+## 🛡️ CyberVerse-AI
 
-### Features
+AI-powered cybersecurity platform featuring:
 
-- Log Analysis
-- Threat Detection
-- Machine Learning Classification
-- Dashboard
+- 🧠 AI Copilot
+- 📄 Log Analysis
+- 🎣 Phishing Detection
+- 🦠 Malware Classification
+- 🌐 Threat Intelligence
+- 📑 AI Incident Reports
+
+🔗 Repository:
+https://github.com/KARRI-NAGA-DHENESH/CyberVerse-AI
+
+---
+
+## 🏥 AI Medical Assistant
+
+Healthcare application featuring:
+
+- 🩺 Disease Prediction
+- 💊 Health Recommendations
+- 🤖 AI Medical Assistant
+- 📊 Interactive Dashboard
+- 👨‍⚕️ User-friendly Interface
 
 ---
 
 # 📚 Currently Learning
 
-- Deep Learning
-- AI Agents
-- Generative AI
-- Data Structures & Algorithms
-- Cloud Deployment
+- 🧠 Deep Learning
+- 🤖 AI Agents
+- 💬 Generative AI
+- 💻 Data Structures & Algorithms
+- ☁️ Cloud Deployment
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Build 5+ AI Projects
-- ✅ Solve 300+ LeetCode Problems
-- ✅ Contribute to Open Source
-- ✅ Crack AI/ML Placement
+- 🚀 Build 5+ AI Projects
+- 💻 Solve 300+ LeetCode Problems
+- 🌱 Contribute to Open Source
+- 📖 Learn Advanced AI & MLOps
+- 💼 Prepare for AI & Software Placements
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href=www.linkedin.com/in/k-n-dhenesh-8294923a0>
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href=https://www.linkedin.com/in/k-n-dhenesh-8294923a0>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:dineshnaga2712@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARRI-NAGA-DHENESH&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARRI-NAGA-DHENESH&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KARRI-NAGA-DHENESH&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KARRI-NAGA-DHENESH&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARRI-NAGA-DHENESH&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KARRI-NAGA-DHENESH&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KARRI-NAGA-DHENESH&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARRI-NAGA-DHENESH&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my profile!
+
+Learning every day • Building meaningful projects • Growing one step at a time 🚀
+
+</p>
