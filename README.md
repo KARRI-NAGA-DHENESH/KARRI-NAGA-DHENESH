@@ -169,6 +169,14 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 
 <p align="center">
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KARRI-NAGA-DHENESH/KARRI-NAGA-DHENESH/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ⭐ Thanks for visiting my profile!
 
 Learning every day • Building meaningful projects • Growing one step at a time 🚀
