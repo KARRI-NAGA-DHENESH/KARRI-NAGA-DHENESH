@@ -3,21 +3,31 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+Real-World+AI+Projects;Learning+Deep+Learning+%26+AI+Agents;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+Real-World+AI+Projects;Learning+Deep+Learning+%26+AI+Agents;Always+Learning+New+Things" alt="Typing SVG"/>
 </p>
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=KARRI-NAGA-DHENESH&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/KARRI-NAGA-DHENESH?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/KARRI-NAGA-DHENESH?style=for-the-badge"/>
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhenesh</h1>
 
 <h3 align="center">
-AI & Machine Learning Student • Building AI Applications • Exploring Intelligent Systems
+
+AI & Machine Learning Student • Building AI Projects • Exploring Intelligent Systems
+
 </h3>
 
 <p align="center">
-I'm a 3rd Year AI & Machine Learning student passionate about building real-world AI applications, solving practical problems, and continuously improving my programming, AI, and software development skills.
+
+I'm a 3rd Year AI & Machine Learning student passionate about building intelligent applications that solve real-world problems. I enjoy learning new technologies, experimenting with AI, and continuously improving my programming and problem-solving skills.
+
 </p>
 
 ---
@@ -28,23 +38,30 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 - 🐍 Python Developer
 - 🤖 Exploring AI, Machine Learning, Deep Learning & AI Agents
 - 🛡️ Building AI-powered applications for real-world use cases
-- 📚 Currently learning DSA, Deep Learning and Cloud Technologies
+- 📚 Currently learning DSA, Deep Learning, Cloud & MLOps
 - 🎯 Preparing for AI & Software Engineering Placements
+- 🌱 Open to learning and collaborating on AI projects
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,html,css,mysql"/>
+
 </p>
 
-### 🤖 AI / Machine Learning
+---
+
+## 🤖 AI / Machine Learning
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
+
 </p>
 
 <p align="center">
@@ -57,10 +74,26 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 
 </p>
 
-### ⚒️ Tools
+---
+
+## 🤖 AI Tools
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Antigravity-6E40C9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</p>
+
+---
+
+## ⚒️ Developer Tools
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
 </p>
 
 ---
@@ -69,8 +102,8 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 
 | Project | Description |
 |----------|-------------|
-| 🛡️ **CyberVerse-AI** | AI-powered cybersecurity platform featuring AI Copilot, Threat Detection, Log Analysis, Malware Classification, Phishing Detection, Threat Intelligence and AI Incident Reports. |
-| 🏥 **AI Medical Assistant** | AI-powered healthcare application featuring Disease Prediction, Symptom Analysis, Health Recommendations and an AI Medical Assistant. |
+| 🛡️ **[CyberVerse-AI](https://github.com/KARRI-NAGA-DHENESH/CyberVerse-AI)** | AI-powered cybersecurity platform featuring AI Copilot, Threat Detection, Log Analysis, Malware Classification, Phishing Detection, Threat Intelligence and AI Incident Reports. |
+| 🏥 **AI Medical Assistant** | AI-powered healthcare application for disease prediction, symptom analysis, health recommendations and AI-assisted guidance. |
 
 ---
 
@@ -81,17 +114,39 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 - 💬 Generative AI
 - 💻 Data Structures & Algorithms
 - ☁️ Cloud Deployment
-- ⚙️ System Design Basics
+- ⚙️ MLOps Fundamentals
+- 🏗️ System Design Basics
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Build 5+ High Quality AI Projects
+- 🚀 Build 5+ High-Quality AI Projects
 - 💻 Solve 300+ LeetCode Problems
 - 🌱 Contribute to Open Source
-- 📖 Learn Advanced AI & MLOps
+- 📖 Learn Advanced Deep Learning & MLOps
+- 🤖 Build Intelligent AI Agents
 - 💼 Become Placement Ready
+
+---
+
+# 🚀 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/KARRI-NAGA-DHENESH/CyberVerse-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KARRI-NAGA-DHENESH&repo=CyberVerse-AI&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_MEDICAL_ASSISTANT_REPOSITORY_LINK">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KARRI-NAGA-DHENESH&repo=YOUR_MEDICAL_ASSISTANT_REPO_NAME&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
@@ -103,9 +158,13 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:dineshnaga2712@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/KARRI-NAGA-DHENESH">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -137,11 +196,11 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KARRI-NAGA-DHENESH&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KARRI-NAGA-DHENESH&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -157,7 +216,7 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 
 ---
 
-# 📊 GitHub Summary
+# 📋 GitHub Profile Summary
 
 <p align="center">
 
@@ -167,18 +226,32 @@ I'm a 3rd Year AI & Machine Learning student passionate about building real-worl
 
 ---
 
-<p align="center">
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KARRI-NAGA-DHENESH/KARRI-NAGA-DHENESH/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/KARRI-NAGA-DHENESH/KARRI-NAGA-DHENESH/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
 </p>
 
-⭐ Thanks for visiting my profile!
+---
 
-Learning every day • Building meaningful projects • Growing one step at a time 🚀
+# 💡 Quote I Live By
+
+<p align="center">
+
+<i>"Small improvements every day lead to remarkable results."</i>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ <b>Thanks for visiting my profile!</b>
+
+<br><br>
+
+<i>Building AI Projects • Learning Every Day • Growing One Commit at a Time 🚀</i>
 
 </p>
