@@ -301,6 +301,6 @@ while True:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6E40C9&height=120&section=footer"/>
 
 </p>
-> *(We'll replace this with your exact repository link in Part 2 once you tell me the repository name.)*
+
 
 ---
