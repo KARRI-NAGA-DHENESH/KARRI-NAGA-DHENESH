@@ -1,32 +1,32 @@
 <p align="center">
-  <img src="images/banner.png" alt="Dhenesh Banner" width="100%">
+  <img src="images/banner.png" width="100%" alt="Dhenesh Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+Real-World+AI+Projects;Learning+Deep+Learning+%26+AI+Agents;Always+Learning+New+Things" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=00BFFF&center=true&vCenter=true&width=950&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+Real-World+AI+Projects;Learning+Deep+Learning+%26+AI+Agents;Always+Learning+New+Things🚀" />
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KARRI-NAGA-DHENESH&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=KARRI-NAGA-DHENESH&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/KARRI-NAGA-DHENESH?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/KARRI-NAGA-DHENESH?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/KARRI-NAGA-DHENESH?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/KARRI-NAGA-DHENESH?style=for-the-badge&logo=github"/>
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhenesh</h1>
+<h1 align="center">
+Hi 👋 I'm Dhenesh
+</h1>
 
 <h3 align="center">
-
-AI & Machine Learning Student • Building AI Projects • Exploring Intelligent Systems
-
+AI & Machine Learning Student • Python Developer • Building AI Projects
 </h3>
 
 <p align="center">
 
-I'm a 3rd Year AI & Machine Learning student passionate about building intelligent applications that solve real-world problems. I enjoy learning new technologies, experimenting with AI, and continuously improving my programming and problem-solving skills.
+I am a passionate <b>3rd Year AI & Machine Learning student</b> who enjoys building intelligent applications, exploring new AI technologies, and solving real-world problems through software development.
 
 </p>
 
@@ -34,19 +34,19 @@ I'm a 3rd Year AI & Machine Learning student passionate about building intellige
 
 # 🚀 About Me
 
-- 🎓 3rd Year B.Tech AI & Machine Learning Student
+- 🎓 B.Tech Student (AI & Machine Learning)
 - 🐍 Python Developer
 - 🤖 Exploring AI, Machine Learning, Deep Learning & AI Agents
-- 🛡️ Building AI-powered applications for real-world use cases
-- 📚 Currently learning DSA, Deep Learning, Cloud & MLOps
-- 🎯 Preparing for AI & Software Engineering Placements
-- 🌱 Open to learning and collaborating on AI projects
+- 🛡️ Building AI-powered Cybersecurity & Healthcare Applications
+- 🌱 Learning one new technology every day
+- 📚 Currently improving DSA, Cloud Computing & MLOps
+- 🎯 Goal: Become an AI Engineer and build impactful AI solutions
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 
 <p align="center">
 
@@ -76,19 +76,23 @@ I'm a 3rd Year AI & Machine Learning student passionate about building intellige
 
 ---
 
-## 🤖 AI Tools
+# 🤖 AI Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Antigravity-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-Agentic_AI-7B61FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## ⚒️ Developer Tools
+# ⚒️ Developer Tools
 
 <p align="center">
 
@@ -100,37 +104,72 @@ I'm a 3rd Year AI & Machine Learning student passionate about building intellige
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🛡️ **[CyberVerse-AI](https://github.com/KARRI-NAGA-DHENESH/CyberVerse-AI)** | AI-powered cybersecurity platform featuring AI Copilot, Threat Detection, Log Analysis, Malware Classification, Phishing Detection, Threat Intelligence and AI Incident Reports. |
-| 🏥 **AI Medical Assistant** | AI-powered healthcare application for disease prediction, symptom analysis, health recommendations and AI-assisted guidance. |
+## 🛡️ CyberVerse-AI
+
+> AI-powered Cybersecurity Platform
+
+### ✨ Features
+
+- 🤖 AI Copilot
+- 📄 Log Analyzer
+- 🦠 Malware Classification
+- 🎣 Phishing Detection
+- 🌍 Threat Intelligence
+- 📊 Security Dashboard
+- 📑 AI Incident Report Generator
+
+**Repository**
+
+https://github.com/KARRI-NAGA-DHENESH/CyberVerse-AI
 
 ---
 
+## 🏥 AI Medical Assistant
+
+> AI-powered Healthcare Assistant
+
+### ✨ Features
+
+- 🩺 Disease Prediction
+- 💊 Health Recommendations
+- 🤖 AI Medical Chat Assistant
+- 📈 Health Dashboard
+- 👨‍⚕️ User-friendly Interface
+
+**Repository**
+
 # 📚 Currently Learning
 
-- 🧠 Deep Learning
-- 🤖 AI Agents
-- 💬 Generative AI
-- 💻 Data Structures & Algorithms
-- ☁️ Cloud Deployment
-- ⚙️ MLOps Fundamentals
-- 🏗️ System Design Basics
+<p align="center">
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-1A73E8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-2E7D32?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-E53935?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-2196F3?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Build 5+ High-Quality AI Projects
+- 🚀 Build 5+ High Quality AI Projects
 - 💻 Solve 300+ LeetCode Problems
+- 🤖 Master AI Agents & Generative AI
 - 🌱 Contribute to Open Source
-- 📖 Learn Advanced Deep Learning & MLOps
-- 🤖 Build Intelligent AI Agents
+- ☁️ Learn MLOps & Cloud Deployment
 - 💼 Become Placement Ready
 
 ---
 
-# 🚀 Featured Repositories
+# 📌 Featured Repositories
 
 <p align="center">
 
@@ -138,11 +177,7 @@ I'm a 3rd Year AI & Machine Learning student passionate about building intellige
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KARRI-NAGA-DHENESH&repo=CyberVerse-AI&theme=tokyonight&hide_border=true"/>
 </a>
 
-</p>
-
-<p align="center">
-
-<a href="YOUR_MEDICAL_ASSISTANT_REPOSITORY_LINK">
+<a href="https://github.com/KARRI-NAGA-DHENESH/YOUR_MEDICAL_ASSISTANT_REPO_NAME">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KARRI-NAGA-DHENESH&repo=YOUR_MEDICAL_ASSISTANT_REPO_NAME&theme=tokyonight&hide_border=true"/>
 </a>
 
@@ -200,7 +235,7 @@ I'm a 3rd Year AI & Machine Learning student passionate about building intellige
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KARRI-NAGA-DHENESH&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KARRI-NAGA-DHENESH&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -236,22 +271,36 @@ I'm a 3rd Year AI & Machine Learning student passionate about building intellige
 
 ---
 
-# 💡 Quote I Live By
+# 💡 Favorite Quote
 
 <p align="center">
 
-<i>"Small improvements every day lead to remarkable results."</i>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
 ---
 
+# ☕ Fun Fact
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
+
+---
+
 <p align="center">
 
-⭐ <b>Thanks for visiting my profile!</b>
+⭐ **Thanks for visiting my profile!**
 
-<br><br>
+### 🚀 Learning Every Day • Building AI Projects • Growing One Commit at a Time
 
-<i>Building AI Projects • Learning Every Day • Growing One Commit at a Time 🚀</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6E40C9&height=120&section=footer"/>
 
 </p>
+> *(We'll replace this with your exact repository link in Part 2 once you tell me the repository name.)*
+
+---
