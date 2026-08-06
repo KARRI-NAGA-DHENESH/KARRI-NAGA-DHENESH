@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=00BFFF&center=true&vCenter=true&width=950&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+Real-World+AI+Projects;Learning+Deep+Learning+%26+AI+Agents;Always+Learning+New+Things🚀" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=00BFFF&center=true&vCenter=true&width=950&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+Real-World+AI+Projects;Learning+Deep+Learning+%26+AI+Agents;Always+Learning+New+Things"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
