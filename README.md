@@ -141,6 +141,32 @@ https://github.com/KARRI-NAGA-DHENESH/CyberVerse-AI
 
 **Repository**
 
+---
+
+## 🌌 HYDRA-AI
+
+> AI-powered application built with React, TypeScript and Gemini AI.
+
+### ✨ Features
+
+- 🤖 AI-powered interactions
+- ⚡ React + TypeScript
+- 🎨 Modern interactive interface
+- 🧠 Gemini AI integration
+- 🚀 Deployed with Vercel
+
+<p align="center">
+
+<a href="https://github.com/KARRI-NAGA-DHENESH/HYDRA-AI">
+<img src="https://img.shields.io/badge/💻_GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="HYDRA-AI GitHub"/>
+</a>
+
+<a href="https://hydra-ai-jet.vercel.app">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-00BFFF?style=for-the-badge" alt="HYDRA-AI Live Demo"/>
+</a>
+
+</p>
+
 # 📚 Currently Learning
 
 <p align="center">
